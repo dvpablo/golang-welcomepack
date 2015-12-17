@@ -8,7 +8,7 @@ This is a repo showing a basic setup in GOLANG, using:
 
 ##Build
 ```
-$ go build ./src/main/
+$ go build -o hello ./src/main/
 ```
 
 ##Test
